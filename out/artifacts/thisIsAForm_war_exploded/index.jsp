@@ -35,7 +35,7 @@
       </script>
   </head>
   <body>
-  <form action="login" id="loginForm" method="post">
+  <form action="TestServlet.do" id="loginForm" method="post">
     <p>
       <label for="cusername">姓名</label>
       <em>* </em><input id="cusername" name="username" size="25" />
